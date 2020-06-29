@@ -1,0 +1,610 @@
+Lista de Pacientes Confirmados - Unimed
+-----------------------------------------
+Data: 2019-04-12 00:00:00
+Nome do Paciente: Adriana Dantas Freire
+Procedimento: Mamas
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-12 00:00:00
+Nome do Paciente: Adriana Dantas Freire
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-17 00:00:00
+Nome do Paciente: Adriana Patrícia de Almeida Sales
+Procedimento: Mamas
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-17 00:00:00
+Nome do Paciente: Adriana Patrícia de Almeida Sales
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-17 00:00:00
+Nome do Paciente: Adriana Patrícia de Almeida Sales
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-24 00:00:00
+Nome do Paciente: Alessandra Duarte Pinto de Sousa
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-27 00:00:00
+Nome do Paciente: Aliete Maria de Farias
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-28 00:00:00
+Nome do Paciente: Amauri Alves Tito
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-28 00:00:00
+Nome do Paciente: Amauri Alves Tito
+Procedimento: Próstata
+Valor: 55.09
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-28 00:00:00
+Nome do Paciente: Amauri Alves Tito
+Procedimento: Abdomen Total Masculino
+Valor: 130.32
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-15 00:00:00
+Nome do Paciente: Ana Cláudia Andrade Lucena
+Procedimento: Abdominal
+Valor: 87.13
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-15 00:00:00
+Nome do Paciente: Ana Cláudia Andrade Lucena
+Procedimento: Mamas
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-15 00:00:00
+Nome do Paciente: Ana Cláudia Andrade Lucena
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-15 00:00:00
+Nome do Paciente: Ana Cláudia Andrade Lucena
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-15 00:00:00
+Nome do Paciente: Ana Cláudia Andrade Lucena
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-23 00:00:00
+Nome do Paciente: Ana Dayra de Melo Teixeira
+Procedimento: Mamas
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-23 00:00:00
+Nome do Paciente: Ana Dayra de Melo Teixeira
+Procedimento: Ginecológico
+Valor: 39.8
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-15 00:00:00
+Nome do Paciente: Ana Emilia de Almeida Pinto
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-26 00:00:00
+Nome do Paciente: Ana Isabel Barros Souza
+Procedimento: Mamas
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-26 00:00:00
+Nome do Paciente: Ana Isabel Barros Souza
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-26 00:00:00
+Nome do Paciente: Ana Isabel Barros Souza
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-04 00:00:00
+Nome do Paciente: Ana Lorena Guimaraes de Oliveira
+Procedimento: Doppler
+Valor: 137.37
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-04 00:00:00
+Nome do Paciente: Ana Lorena Guimaraes de Oliveira
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-04 00:00:00
+Nome do Paciente: Ana Maria Ferreira de Sousa
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-11 00:00:00
+Nome do Paciente: André de Araújo Sacchi
+Procedimento: PAAF Tireoide UCD VV
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-25 00:00:00
+Nome do Paciente: Andréa Ribeiro Araújo de Menezes
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-23 00:00:00
+Nome do Paciente: Andréa Souza Fechine
+Procedimento: Mamas
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-23 00:00:00
+Nome do Paciente: Andréa Souza Fechine
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-23 00:00:00
+Nome do Paciente: Andréa Souza Fechine
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-23 00:00:00
+Nome do Paciente: Andréa Souza Fechine
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-23 00:00:00
+Nome do Paciente: Andréa Souza Fechine
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-25 00:00:00
+Nome do Paciente: Ângela Glória Rolim de Sousa
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-26 00:00:00
+Nome do Paciente: Anna Heloysa Almeida de Andrade Ludgério
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-11 00:00:00
+Nome do Paciente: Antônia Gonçalves Carneiro
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-11 00:00:00
+Nome do Paciente: Antônia Gonçalves Carneiro
+Procedimento: Ginecológico
+Valor: 39.8
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-11 00:00:00
+Nome do Paciente: Antônia Gonçalves Carneiro
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-13 00:00:00
+Nome do Paciente: Antônio José da Silva
+Procedimento: Próstata
+Valor: 55.09
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-13 00:00:00
+Nome do Paciente: Antônio José da Silva
+Procedimento: Abdomen Total Masculino
+Valor: 130.32
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-29 00:00:00
+Nome do Paciente: Arlinda Gonçalves Vanderley
+Procedimento: Mamas
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-29 00:00:00
+Nome do Paciente: Arlinda Gonçalves Vanderley
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-13 00:00:00
+Nome do Paciente: Aroldo Vilar
+Procedimento: Próstata
+Valor: 55.09
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-13 00:00:00
+Nome do Paciente: Aroldo Vilar
+Procedimento: Abdomen Total Masculino
+Valor: 130.32
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-17 00:00:00
+Nome do Paciente: Bianca Alcântara Antonino
+Procedimento: Mamas
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-17 00:00:00
+Nome do Paciente: Bianca Alcântara Antonino
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-17 00:00:00
+Nome do Paciente: Bianca Alcântara Antonino
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-18 00:00:00
+Nome do Paciente: Bruna Maria Justino Cruz
+Procedimento: Mamas
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-18 00:00:00
+Nome do Paciente: Bruna Maria Justino Cruz
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-18 00:00:00
+Nome do Paciente: Bruna Maria Justino Cruz
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-26 00:00:00
+Nome do Paciente: Camila Coutinho Saraiva
+Procedimento: Mamas
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-26 00:00:00
+Nome do Paciente: Camila Coutinho Saraiva
+Procedimento: Ginecológico
+Valor: 39.8
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-27 00:00:00
+Nome do Paciente: Carlos Alberto Pinto
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-27 00:00:00
+Nome do Paciente: Carlos Alberto Pinto
+Procedimento: Próstata
+Valor: 55.09
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-27 00:00:00
+Nome do Paciente: Carlos Alberto Pinto
+Procedimento: Abdomen Total Masculino
+Valor: 130.32
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-26 00:00:00
+Nome do Paciente: Carmen Lucia Soares Gomes de Medeiros
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-26 00:00:00
+Nome do Paciente: Carmen Lucia Soares Gomes de Medeiros
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-26 00:00:00
+Nome do Paciente: Carmen Lucia Soares Gomes de Medeiros
+Procedimento: Aparelho Urinário Feminino
+Valor: 82.14
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-18 00:00:00
+Nome do Paciente: Cleide Alves Lopes Elias
+Procedimento: Doppler
+Valor: 137.37
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-18 00:00:00
+Nome do Paciente: Cleide Alves Lopes Elias
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-29 00:00:00
+Nome do Paciente: Clemilda Barbosa Nunes
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-29 00:00:00
+Nome do Paciente: Clesinete Gomes Queiroz
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-29 00:00:00
+Nome do Paciente: Clesinete Gomes Queiroz
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-28 00:00:00
+Nome do Paciente: Cybelle Diniz Cavalcanti Travassos
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-01 00:00:00
+Nome do Paciente: Daiane Garcias Barreto
+Procedimento: Mamas
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-01 00:00:00
+Nome do Paciente: Daiane Garcias Barreto
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-01 00:00:00
+Nome do Paciente: Daiane Garcias Barreto
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-24 00:00:00
+Nome do Paciente: Daiane Isabele Ferreira da Silva
+Procedimento: Mamas
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-24 00:00:00
+Nome do Paciente: Daiane Isabele Ferreira da Silva
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-13 00:00:00
+Nome do Paciente: Darci Torres Vilar
+Procedimento: Mamas
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-13 00:00:00
+Nome do Paciente: Darci Torres Vilar
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-13 00:00:00
+Nome do Paciente: Darci Torres Vilar
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-13 00:00:00
+Nome do Paciente: Darci Torres Vilar
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-18 00:00:00
+Nome do Paciente: Darcy Barreto Valença
+Procedimento: Mamas
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-18 00:00:00
+Nome do Paciente: Darcy Barreto Valença
+Procedimento: Ginecológico
+Valor: 39.8
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-18 00:00:00
+Nome do Paciente: Darcy Barreto Valença
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-24 00:00:00
+Nome do Paciente: Dione Ramos de Queiroz
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-12 00:00:00
+Nome do Paciente: Dioneide Alves Coelho
+Procedimento: Doppler
+Valor: 137.37
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-12 00:00:00
+Nome do Paciente: Dioneide Alves Coelho
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-25 00:00:00
+Nome do Paciente: Edileusa Leal da Costa
+Procedimento: Tireoide
+Valor: 65.28
+Médica: Geruza
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-29 00:00:00
+Nome do Paciente: Edite Rodrigues Custódio
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-29 00:00:00
+Nome do Paciente: Edite Rodrigues Custódio
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-30 00:00:00
+Nome do Paciente: Edna Guedes Pinheiro
+Procedimento: Mamas
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-30 00:00:00
+Nome do Paciente: Edna Guedes Pinheiro
+Procedimento: Transvaginal
+Valor: 72.08
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-03-30 00:00:00
+Nome do Paciente: Edna Guedes Pinheiro
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Valéria
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-15 00:00:00
+Nome do Paciente: Eliane Marcelino de Almeida
+Procedimento: Aparelho Urinário Feminino
+Valor: 82.14
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-12 00:00:00
+Nome do Paciente: Eliane Montenegro Agra
+Procedimento: Mamas
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-12 00:00:00
+Nome do Paciente: Eliane Montenegro Agra
+Procedimento: Regiões Axilares
+Valor: 65.28
+Médica: Laurise
+-----------------------------------------
+-----------------------------------------
+Data: 2019-04-05 00:00:00
+Nome do Paciente: Elizabete Alves Marcelino
+Procedimento: Abdomen Total Feminino
+Valor: 130.32
+Médica: Laurise
+-----------------------------------------
